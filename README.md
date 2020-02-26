@@ -2,7 +2,7 @@
 
 Frontend Challenge - Pricing Component Toggle
 
-Solution for Pricing Component Toggle challenge
+Solution for Pricing Component Toggle challenge.
 
 # Frontend Mentor - Pricing Component Toggle
 
